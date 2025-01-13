@@ -1,0 +1,18 @@
+ID,villeDépart, villeArrivée,Coût,Points
+1,New-York , Paris,600,60
+2,Sydney , Matadi,1300,110
+3,Pékin , New Delhi,800,80
+4,Tokyo , Los Angeles,880,85
+5,Le Cap , Buenos Aires,685,70
+6,Alger , Riyad,524,50
+7,Moscou , Londres,289,25
+8,Mexico , Moscou,1000,105
+9,Le Cap , New Delhi,930,95
+10,Riyad , Pékin,660,65
+11,Alger , Sydney,1700,125
+12,New-York , Los Angeles,400,40
+13,Buenos Aires , Pékin,1900,130
+14,Matadi , Mexico,1300,110
+15,Tokyo , Londres,955,100
+16,Paris , Alger,200,15
+17,Moscou , Pékin,580,55

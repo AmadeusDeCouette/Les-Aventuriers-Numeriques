@@ -1,0 +1,21 @@
+ID,Type,Libellé,Nb de tours actif
+1,Bonus,Gagnez x2 des points pour chaque trajet terminé lors des 2 prochains tours,2
+2,Bonus,Ajoutez la moitié des ressources nécessaire à un trajet,1
+3,Bonus,Ajoutez 50Go au trajet de votre choix,1
+4,Bonus,Le trajet Riyad-Pékin voit son coût divisé par 2 pendant 3 tours,3
+5,Bonus,Tous les trajets au départs de N-Y voient leur coût réduit de 200Go,1
+6,Bonus,Tous les trajets IC rapporte x2 points pendant 2 tours,2
+7,Bonus,Même si une réponse est incorrecte gagnez la moitié de la récompense de la carte,1
+8,Bonus,Le trajet Paris-Alger devient réalisable par toustes,10
+9,Bonus,Lancer de dé: 1: -6 pts/ 2 à 5: +100Go/6: +20 pts,1
+10,Bonus,Lors de ce tour les récompenses x2,1
+11,Malus,Chaque nouveau trajet coûte 50Go,10
+12,Malus,Tous les trajets IC voient leurs récompenses divisées par 2 pendant 2 tours,2
+13,Malus,Pour chaque trajet déjà terminé perdez 30Go du stock de données,1
+14,Malus,Pour chaque trajet déjà terminé perdez 10 pts,1
+15,Malus,Pour chaque réponse incorrecte perdez 10 Go sur chaque trajet,1
+16,Malus,Déplacez la moitié des Go d'un trajet sur un autre,1
+17,Malus,Tous les trajets comprenant Moscou perdent 100Go,1
+18,Malus,Perdez tous les trajets en cours et récupérez seulement 50% des Go engagés,1
+19,Malus,Pendant 2 tours les trajets maritimes sont bloqués,2
+20,Malus,Pendant 2 tours aucun trajet ne peut être commencé,2
