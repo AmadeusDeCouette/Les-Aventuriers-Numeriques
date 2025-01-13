@@ -65,3 +65,4 @@ def CSV_to_cartes():
 
     return liste_cartes
 
+print(CSV_to_trajets())
